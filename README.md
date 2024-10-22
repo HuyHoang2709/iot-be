@@ -1,11 +1,11 @@
 ### Các bước chạy dự án
 
-1. Tải code về
+1. Tải code về\
    `git clone <link dự án>`
 2. Cài Node.js (version >= 20)
-3. Cài các thư viện
+3. Cài các thư viện\
    `npm i`
-4. Chạy dự án (ở cổng 8080, tự động lắng nghe thay đổi, không cần chạy lại lệnh này khi thực hiện thay đổi trên code)
+4. Chạy dự án (ở cổng 8080, tự động lắng nghe thay đổi, không cần chạy lại lệnh này khi thực hiện thay đổi trên code)\
    `npm start`
 
 ### Quy tắc
