@@ -11,10 +11,9 @@
 ### Quy tắc
 
 1. Các key mật (Tài khoản, mật khẩu, access token cho db,...) để vào file .env và lôi ra dùng qua thư viện dotenv (tự xem hướng dẫn trên mạng)
-2. Cấu trúc thư mục Express
+2. Cấu trúc thư mục Express\
    [Xem tại đây](https://viblo.asia/p/best-practices-for-expressjs-part-i-L4x5xgQqlBM)
 3. Công nghệ sử dụng (đọc qua phần dependencies trong file `package.json`)
-
 - jwt cho xác thực
 - dotenv lưu key mật
 - express để chạy server
